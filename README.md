@@ -1,4 +1,4 @@
-HomeworkName
+HtmlCleaner
 =================================================
 
 ![Points](../../blob/badges/points.svg)
